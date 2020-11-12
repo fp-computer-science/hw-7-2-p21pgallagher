@@ -1,0 +1,5 @@
+Question 1
+This only works for words of a certain length.
+
+Question 2
+This uses functions which we have not talked about yet. Please be sure to stick with the material we talked about in class.
